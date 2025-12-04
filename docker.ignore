@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.git/
+.gitignore
+__pycache__/
+*.pyc
+venv/
+env/
+.vscode/
+.idea/
+.DS_Store
+*.pdf
+temp*.pdf
+README.md
